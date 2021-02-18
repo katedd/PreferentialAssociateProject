@@ -1,4 +1,4 @@
-block,plot,plant_num,spp_mix,spp_mix,mix_type,species1,species2,mass_Sp,mass,bag_wt,true_wt,th,cd_fr,bc_ram_num,stem_num,leaf_num,sh,alive
+block,plot,plant_num,spp_mix,plot_type,mix_type,species1,species2,mass_Sp,mass,bag_wt,true_wt,th,cd_fr,bc_ram_num,stem_num,leaf_num,sh,alive
 1,1,1,ACAM,MONO,MONO_A,ACAM,ACAM,ACAM,6.84,5.43,1.41,64,16,5,1,5,0,Y
 1,1,2,ACAM,MONO,MONO_A,ACAM,ACAM,ACAM,7.32,5.43,1.89,60,20,6,1,6,0,Y
 1,1,3,ACAM,MONO,MONO_A,ACAM,ACAM,ACAM,7.29,5.43,1.86,56,11,4.5,1,5,0,Y
